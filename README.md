@@ -1,48 +1,8 @@
-<!-- Profil README dengan tema Muse Dash - Enhanced -->
+<h1 align="center">Yo Belong! I am Rafa</h1>
 
-<!-- Animated Header dengan efek Muse Dash -->
 <p align="center">
-  <img src="https://media.giphy.com/media/65fbA3UeJ8Vbk/giphy.gif" alt="Typing Animation" />
+  <img src="https://media1.tenor.com/m/Rpf3vbU-9pUAAAAC/amiya-muse-dash.gif" alt="Muse Dash Header" />
 </p>
-
-<div class="tenor-gif-embed" data-postid="27433747" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/amiya-muse-dash-arknights-lose-gif-27433747">Amiya Muse Dash GIF</a>from <a href="https://tenor.com/search/amiya-gifs">Amiya GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
-<!-- GIF Intro dengan border styling Muse Dash -->
-<p align="center">
-  <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
-    <img src="https://i.imgur.com/6D4k+Ea.gif" 
-         alt="Muse Dash Intro" width="600" style="border-radius: 20px; border: 5px solid #FF7EDB; box-shadow: 0 0 15px rgba(255, 126, 219, 0.6);">
-  </a>
-</p>
-
----
-
-## 🎮 About Me
-<div align="center">
-  
-Selamat datang di profil GitHub ane dengan tema **Muse Dash**! 🚀  
-Gue seorang developer yang suka **ngoding, desain, dan musik game**.  
-
-![Muse Dash Character](https://i.imgur.com/9Emyq9L.png) *Coding dengan rhythm yang pas!* 🎵
-
-</div>
-
----
-
-## 🕹️ My Muse Dash Stats
-
-<div align="center">
-
-| Level | Score | Combo |
-|:-----:|:-----:|:-----:|
-| **Developer** | ⭐⭐⭐⭐⭐ | 999x |
-
-![Progress](https://progress-bar.dev/85/?title=Coding&width=400&color=ff7edb)  
-![Progress](https://progress-bar.dev/75/?title=Design&width=400&color=ff5c87)  
-![Progress](https://progress-bar.dev/90/?title=Creativity&width=400&color=ff4296)  
-
-</div>
 
 ---
 
@@ -60,7 +20,6 @@ Gue seorang developer yang suka **ngoding, desain, dan musik game**.
 ### 🎵 Currently Learning
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🎵 Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -69,12 +28,5 @@ Gue seorang developer yang suka **ngoding, desain, dan musik game**.
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
----
 
 
