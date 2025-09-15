@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Yo Belong! I am Rafa</h1>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=YO+Belong!+🫡;+I'm+Rafa+Apta💀;" />
+  </h1>
   
   <table >
     <tr>
